@@ -1,3 +1,4 @@
+### [ENG](https://github.com/vandesign/figma-shortcuts/blob/master/README.md)
 # Список горячих клавиш для Figma
 Клавиатурные сокращения для Windows и Mac OS скомпанованы на страницы формата А4.
 

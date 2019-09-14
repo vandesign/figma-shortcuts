@@ -1,4 +1,4 @@
-[РУС](https://github.com/vandesign/figma-shortcuts/blob/master/README-RU.md)
+### [РУС](https://github.com/vandesign/figma-shortcuts/blob/master/README-RU.md)
 # Shortcuts for Figma
 Hotkey for Windows and Mac OS.
 
