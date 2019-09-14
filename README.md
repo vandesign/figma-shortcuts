@@ -14,3 +14,6 @@ You can download PDF.
 You can open shared Figma file and dublicate it.
 
 🖖 Figma Link: [Figma Keyboard Shortcuts](https://www.figma.com/file/PUnOKWnIsQxBFrFAGVBgEW/Figma-Keyboard-Shortcuts?node-id=0%3A1)
+
+## Error
+Pleace send me all bugs.

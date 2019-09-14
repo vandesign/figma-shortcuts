@@ -14,3 +14,6 @@
 По ссылке исходный файл в Figma. Вы можете сделать дубликат.
 
 🖖 Figma Link: [Figma Keyboard Shortcuts](https://www.figma.com/file/PUnOKWnIsQxBFrFAGVBgEW/Figma-Keyboard-Shortcuts?node-id=0%3A1)
+
+## Ошибки
+Пожалуйста сообщите о найденных неточностях.
