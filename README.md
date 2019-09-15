@@ -15,5 +15,7 @@ You can download PDF.
 You can open shared Figma file and duplicate it.
 🖖 Figma Link: [Figma Keyboard Shortcuts](https://www.figma.com/file/PUnOKWnIsQxBFrFAGVBgEW/Figma-Keyboard-Shortcuts?node-id=0%3A1)
 
-## Error
-Please send me all bugs.
+## Support
+Please create a
+[new issue](https://github.com/vandesign/figma-shortcuts/issues/new)
+if you find a mistake or have any questions.
