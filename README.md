@@ -1,19 +1,21 @@
-### [РУС](https://github.com/vandesign/figma-shortcuts/blob/master/README-RU.md)
+### [РУС](./README-RU.md)
+
 # Shortcuts for Figma
 Hotkeys for Windows and Mac OS.
 
-<img width="933" alt="image" src="https://github.com/vandesign/figma-shortcuts/blob/master/images/figma-shortcuts-windows-native.png">
-
-<img width="933" alt="image" src="https://github.com/vandesign/figma-shortcuts/blob/master/images/figma-shortcuts-macos-native.png">
+![Windows shortcuts](./images/figma-shortcuts-windows-native.png)
+![MacOS shortcuts](./images/figma-shortcuts-macos-native.png)
 
 ## PDF
 You can download PDF.
-- [figma-shortcuts-windows-native.pdf](https://github.com/vandesign/figma-shortcuts/blob/master/pdf/figma-shortcuts-windows-native.pdf)
-- [figma-shortcuts-macos-native.pdf](https://github.com/vandesign/figma-shortcuts/blob/master/pdf/figma-shortcuts-macos-native.pdf)
-## Figma
-You can open shared Figma file and dublicate it.
+- [figma-shortcuts-windows-native.pdf](./pdf/figma-shortcuts-windows-native.pdf)
+- [figma-shortcuts-macos-native.pdf](./pdf/figma-shortcuts-macos-native.pdf)
 
+## Figma
+You can open shared Figma file and duplicate it.
 🖖 Figma Link: [Figma Keyboard Shortcuts](https://www.figma.com/file/PUnOKWnIsQxBFrFAGVBgEW/Figma-Keyboard-Shortcuts?node-id=0%3A1)
 
-## Error
-Pleace send me all bugs.
+## Support
+Please create a
+[new issue](https://github.com/vandesign/figma-shortcuts/issues/new)
+if you find a mistake or have any questions.
