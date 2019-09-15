@@ -3,8 +3,8 @@
 # Список горячих клавиш для Figma
 Клавиатурные сокращения для Windows и Mac OS скомпонованы на страницах формата А4.
 
-<img width="933" alt="image" src="./images/figma-shortcuts-windows-native.png">
-<img width="933" alt="image" src="./images/figma-shortcuts-macos-native.png">
+![Windows shortcuts](./images/figma-shortcuts-windows-native.png)
+![MacOS shortcuts](./images/figma-shortcuts-macos-native.png)
 
 ## PDF
 Вы можете скачать файлы в формате PDF.
