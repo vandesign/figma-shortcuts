@@ -1,4 +1,4 @@
-### [РУС](./README-RU.md)
+### ENG | [РУС](./README-RU.md)
 
 # Shortcuts for Figma
 Hotkeys for Windows and Mac OS.
