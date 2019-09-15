@@ -1,6 +1,6 @@
 ### [ENG](https://github.com/vandesign/figma-shortcuts/blob/master/README.md)
 # Список горячих клавиш для Figma
-Клавиатурные сокращения для Windows и Mac OS скомпанованы на страницы формата А4.
+Клавиатурные сокращения для Windows и Mac OS скомпонованы на страницах формата А4.
 
 <img width="933" alt="image" src="https://github.com/vandesign/figma-shortcuts/blob/master/images/figma-shortcuts-windows-native.png">
 
